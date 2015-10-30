@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd nxt
+cd nxt-1.6.1e
 ./run.sh &
 cd ..
 cd fmcore
